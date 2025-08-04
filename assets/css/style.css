@@ -92,7 +92,7 @@ body {
 }
 
 #profile-img {
-    background-image: url(/assets/images/haris.jpg);
+    background-image: url("/assets/images/haris.jpg");
  
     height: 95vh;
 
